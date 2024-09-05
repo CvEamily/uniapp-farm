@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "default",
+  "navigationBarTitleText": "智慧农场",
+  "usingComponents": {
+    "iconfont": "/wxcomponents/iconfont/iconfont"
+  }
+}

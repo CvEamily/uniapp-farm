@@ -1,0 +1,1 @@
+<view><block wx:if="{{!userRole}}"><button data-event-opts="{{[['tap',[['login',['$event']]]]]}}" bindtap="__e">登录</button></block><button data-event-opts="{{[['tap',[['register',['$event']]]]]}}" bindtap="__e">注册</button><button data-event-opts="{{[['tap',[['createFowl',['$event']]]]]}}" bindtap="__e">创建家禽</button></view>

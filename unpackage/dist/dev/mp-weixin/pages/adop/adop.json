@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "v-tabs": "/uni_modules/v-tabs/components/v-tabs/v-tabs",
+    "liu-progressbar": "/uni_modules/liu-progressbar/components/liu-progressbar/liu-progressbar"
+  }
+}

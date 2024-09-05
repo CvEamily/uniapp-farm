@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/adop/adop",
+    "pages/adop/details/details",
+    "pages/me/me"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/shome.png"
+      },
+      {
+        "pagePath": "pages/adop/adop",
+        "iconPath": "static/pig.png",
+        "selectedIconPath": "static/spig.png"
+      },
+      {
+        "pagePath": "pages/me/me",
+        "iconPath": "static/user.png",
+        "selectedIconPath": "static/suser.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

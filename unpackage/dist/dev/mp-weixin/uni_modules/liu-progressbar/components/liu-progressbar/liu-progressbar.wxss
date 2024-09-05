@@ -1,0 +1,47 @@
+
+.progress-bar.data-v-3699d79d {
+	position: relative;
+	width: 100%;
+	background-color: #f2f2f2;
+	border-radius: 16rpx;
+}
+.percentage.data-v-3699d79d {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	color: #666;
+	-webkit-transform: translate(-50%, -50%);
+	        transform: translate(-50%, -50%);
+	font-size: 24rpx;
+	-webkit-user-select: none;
+	        user-select: none;
+	z-index: 1;
+}
+.progress.data-v-3699d79d {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+}
+.card-item.data-v-3699d79d {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.progress-bar1.data-v-3699d79d {
+	position: relative;
+	width: 90%;
+	background-color: #f2f2f2;
+	border-radius: 16rpx;
+}
+.percentage1.data-v-3699d79d {
+	color: #666;
+	font-size: 24rpx;
+}
+.progress1.data-v-3699d79d {
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+}
+
